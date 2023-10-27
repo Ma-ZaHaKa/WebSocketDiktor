@@ -1,0 +1,8 @@
+﻿cl : командная строка warning D9025: переопределение "/sdl" на "/GS-"
+  Main.cpp
+  Создание кода
+  146 of 152 functions (96.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  WebSocketDiktor_USING.vcxproj -> D:\1програмирование\C-C++\WEBSOCKET_SERVER\WebSocketDiktor\WebSocketDiktor\WebSocketDiktor_x86\WebSocketDiktor_USING\WebSocketDiktor_USING\Release\WebSocketDiktor_USING.exe
