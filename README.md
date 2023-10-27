@@ -1,5 +1,6 @@
 # WebSocketDiktor
-!!! C++ VER 17 !!!
-DIKTOR_UWS.h нельзя подключать Windows.h милион ошибок будет
+!!! C++ VER 17 !!!<br>
+DIKTOR_UWS.h нельзя подключать после Windows.h, милион ошибок будет<br>
 
-Репо создан для соединения c++(uWebSockets) и c#(WebSocketSharp-netstandard) через websocket c инструкцией как настроить и готовой dll библиотекой фунциклирующей на порту 9002 и встроенным буффером сообщений + json конструктором
+Репо создан для соединения c++(uWebSockets) и c#(WebSocketSharp-netstandard) через websocket c инструкцией как настроить и готовой dll библиотеко()й<br>
+(SERVER)WebSocketDiktor.dll<-CPPLIBLOADER(USING.cpp).exe => C# (CLIENT)
