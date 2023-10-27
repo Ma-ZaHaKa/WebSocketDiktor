@@ -1,4 +1,4 @@
-# uWS_Diktor_LIB
+# WebSocketDiktor
 !!! C++ VER 17 !!!
 DIKTOR_UWS.h нельзя подключать Windows.h милион ошибок будет
 
