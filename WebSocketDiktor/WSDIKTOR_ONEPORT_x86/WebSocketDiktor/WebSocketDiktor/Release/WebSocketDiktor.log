@@ -1,0 +1,10 @@
+﻿cl : командная строка warning D9025: переопределение "/sdl" на "/GS-"
+  DIKTOR_UWS.cpp
+  MAIN.cpp
+     Создается библиотека D:\1програмирование\C-C++\WEBSOCKET_SERVER\_UWS_FINAL\uWS_Diktor_LIB\uWS_Diktor_LIB\C++\WebSocketDiktor\Release\WebSocketDiktor.lib и объект D:\1програмирование\C-C++\WEBSOCKET_SERVER\_UWS_FINAL\uWS_Diktor_LIB\uWS_Diktor_LIB\C++\WebSocketDiktor\Release\WebSocketDiktor.exp
+  Создание кода
+  151 of 2938 functions ( 5.1%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    124 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  WebSocketDiktor.vcxproj -> D:\1програмирование\C-C++\WEBSOCKET_SERVER\_UWS_FINAL\uWS_Diktor_LIB\uWS_Diktor_LIB\C++\WebSocketDiktor\Release\WebSocketDiktor.dll

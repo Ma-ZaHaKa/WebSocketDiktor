@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Main">
+      <UniqueIdentifier>{249fe3a7-49b1-4bae-bb2e-1293c62bfc2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DIKTOR_UWS">
+      <UniqueIdentifier>{6bd659ac-2961-41a0-ba5d-b436c0ef66d7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MAIN.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="DIKTOR_UWS\DIKTOR_UWS.cpp">
+      <Filter>DIKTOR_UWS</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DIKTOR_UWS\DIKTOR_UWS.h">
+      <Filter>DIKTOR_UWS</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
