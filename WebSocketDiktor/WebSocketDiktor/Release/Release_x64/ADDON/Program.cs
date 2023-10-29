@@ -25,7 +25,7 @@ namespace UWS_DK_Sender
             {
                 while (true)
                 {
-                    socket = new WebSocket("ws://localhost:9002");
+                    socket = new WebSocket("ws://localhost:9005");
                     Disable(socket.Log);
                     //socket.OnClose += (sender, e) => { };
                     //socket.OnError += (sender, e) => { };

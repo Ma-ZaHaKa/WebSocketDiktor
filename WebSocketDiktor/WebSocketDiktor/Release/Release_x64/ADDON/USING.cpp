@@ -92,7 +92,7 @@ DWORD CALLBACK MessageEntry(LPVOID)
 	int Port = 9005;
 	bool HelloOnStart = false;
 
-	//Setup(Port, HelloOnStart);
+	Setup(Port, HelloOnStart);
 	SetupHandle(Port, HelloOnStart, OnMessage);
 	//SetupHandle(9006, HelloOnStart, OnMessage);
 
